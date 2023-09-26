@@ -22,7 +22,7 @@ function ProductCard({foodData}) {
                     </Card>
                 </Col>
                 )
-            }) : <h3>No Food Found , Search like this ' Breackfast or Lunch or Dinner or Snack '</h3>}
+            }) : <h3>No Food Found , Search like this ' breackfast or lunch or dinner or snack '</h3>}
         </Row>
     );
 }

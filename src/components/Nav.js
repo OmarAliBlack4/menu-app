@@ -18,7 +18,7 @@ function NavMenu({foodFillterSearch}) {
   return (
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container >
-        <Navbar.Brand href="index.html">Restaurant menu</Navbar.Brand>
+        <Navbar.Brand href="index.html">Italian Restaurant menu</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
